@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "The Lion King",
+    "details": {
+      "director": "Jon Favreau",
+      "cast": ["Donald Glover", "Beyoncé", "James Earl Jones"],
+      "releaseDate": "2019-07-19",
+      "runtime": 118
+    },
+    "disneyMovie": true,
+    "image": "https://example.com/images/the-lion-king.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "details": {
+      "director": "Peter Jackson",
+      "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+      "releaseDate": "2001-12-19",
+      "runtime": 178
+    },
+    "disneyMovie": false,
+    "image": "https://example.com/images/lord-of-the-rings.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Frozen II",
+    "details": {
+      "director": "Chris Buck, Jennifer Lee",
+      "cast": ["Kristen Bell", "Idina Menzel", "Josh Gad"],
+      "releaseDate": "2019-11-22",
+      "runtime": 103
+    },
+    "disneyMovie": true,
+    "image": "https://example.com/images/frozen-ii.jpg"
+  }
+]
